@@ -1,4 +1,4 @@
-# basic-python-calculator
+# Alfido_Tech_Internship
 # 🧮 Basic Python Calculator
 
 A simple terminal-based calculator that performs basic arithmetic operations: addition, subtraction, multiplication, and division.
